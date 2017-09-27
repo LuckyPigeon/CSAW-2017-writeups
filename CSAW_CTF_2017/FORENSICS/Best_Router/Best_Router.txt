@@ -1,0 +1,9 @@
+Best Router
+http://forensics.chal.csaw.io:3287
+
+NOTE: This will expand to ~16GB!
+
+19:00 Eastern: updated. Old flags have been removed.
+
+package link location : https://ctf.csaw.io/files/e003b7cd6d0406d93467f3c7290d4ef7/best_router.tar.gz
+

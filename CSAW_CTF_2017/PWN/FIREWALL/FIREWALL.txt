@@ -1,0 +1,8 @@
+FIREWALL
+
+After rummaging around the network for a few days, the IT department was able to find the dust covered machine hosting the hospital's firewall. We don't have budget to update it... so just take a quick look and tell us it's good for another year.
+
+nc firewall.chal.csaw.io 4141
+
+-- Markus Gaasedelen, Ret2 Systems
+'''

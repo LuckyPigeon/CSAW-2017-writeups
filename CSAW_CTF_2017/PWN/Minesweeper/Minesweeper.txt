@@ -1,0 +1,4 @@
+Minesweeper
+
+nc pwn.chal.csaw.io 7478
+

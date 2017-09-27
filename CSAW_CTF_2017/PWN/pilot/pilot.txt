@@ -1,0 +1,2 @@
+Can I take your order?
+nc pwn.chal.csaw.io 8464

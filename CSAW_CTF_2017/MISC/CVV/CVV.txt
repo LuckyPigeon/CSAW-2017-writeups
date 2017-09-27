@@ -1,0 +1,2 @@
+Hey fam, you got CVV? I need some CVV!
+nc misc.chal.csaw.io 8308
